@@ -12,9 +12,9 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [DEPLOY1](https://heroku.com/deploy?template=https://github.com/armin5572891/whatsapp-bot) <br>
-5. <a href="https://heroku.com/deploy?template=https://github.com/c9337684berlin/whatsapp-bot">DEPLOY LINK2<a/>
+5. <a href="https://heroku.com/deploy?template=https://github.com/gameproarmy/whatsapp-bot">DEPLOY LINK2<a/>
    <br>
-<a href="https://heroku.com/deploy?template=https://github.com/ijasijju/whatsapp-bot" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/gameproarmy/whatsapp-bot" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
    <a href="https://youtu.be/G4KknEgKWoA"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
    <a href="https://chat.whatsapp.com/KA9zgz1gvN03LmwtQTJJZR"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
